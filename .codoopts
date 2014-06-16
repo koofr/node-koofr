@@ -1,0 +1,8 @@
+--name       "Koofr"
+--readme     README.md
+--title      "Koofr Node.js SDK"
+--extension  coffee
+--output     ./doc
+./src
+-
+LICENSE
