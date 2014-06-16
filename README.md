@@ -2,6 +2,10 @@
 
 This is a Node.js SDK for easy interaction with Koofr service.
 
+Code documentation:
+
+http://koofr.github.io/node-koofr/
+
 ## Install
 
 ```
